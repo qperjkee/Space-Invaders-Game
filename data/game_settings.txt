@@ -1,1 +1,0 @@
-{"player.hp": 100, "lives": 10, "enemy.speed": "Medium", "enemy.bullet.speed": "Medium", "player.speed": "Medium", "player.bullet.speed": "Medium", "enemy.spawn": 3, "player.heal": 20, "bonus.health": true, "bonus.lives": true, "bonus.shield": true, "bonus.slow": true}
