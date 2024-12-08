@@ -16,11 +16,11 @@ This game features several menus and gameplay elements to enhance your experienc
 
 ### ⚙️ **Settings Menu**
 Customize your experience! Adjust difficulty, toggle bonuses, and more to suit your gameplay style.
-![Settings Menu](https://github.com/user-attachments/assets/6404820e-5196-4c23-8f73-ee7a7c407739)
+![Settings](https://github.com/user-attachments/assets/95e54a1d-187a-49ad-9a85-d935fc83a06d)
 
 ### ℹ️ **Info Menu**
 The Info Menu provides detailed instructions, controls, and descriptions of gameplay mechanics. Perfect for first-time players!
-![Info Menu](https://github.com/user-attachments/assets/988d2e90-a2d5-4655-8c29-48d79db2e4d5)
+![Info](https://github.com/user-attachments/assets/58d6ddbe-f1f9-425f-8955-bc961640754b)
 
 ### 🛸 **Game Screen**
 During gameplay, you will see:
