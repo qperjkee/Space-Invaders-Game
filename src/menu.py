@@ -364,11 +364,11 @@ class Menu:
     def handle_settigns_click(self):
         mouse_pos = pygame.mouse.get_pos()
         if self.EASY_BUTTON.checkForInput(mouse_pos):
-            self.change_values(150, 15, 2, 40, True, True, True, True, "Slow", "Slow", "Slow", "Slow")
+            self.change_values(150, 15, 2, 40, True, True, True, True, "Slow", "Slow", "Fast", "Fast")
         elif self.MEDIUM_BUTTON.checkForInput(mouse_pos):
             self.change_values(100, 10, 4, 20, True, False, True, True, "Medium", "Medium", "Medium", "Medium")
         elif self.HARD_BUTTON.checkForInput(mouse_pos):
-            self.change_values(100, 5, 7, 10, False, False, False, False, "Fast", "Fast", "Fast","Fast")
+            self.change_values(100, 5, 7, 10, False, False, False, False, "Fast", "Fast", "Slow","Slow")
         elif self.RESET_BUTTON.checkForInput(mouse_pos):
             self.change_values(100, 10, 3, 20, True, True, True, True, "Medium", "Medium", "Medium", "Medium")
 
